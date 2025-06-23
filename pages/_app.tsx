@@ -15,22 +15,22 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta name="robots" content="all" />
       </Head>
       <NextSeo
-        title="Educational institutions in Liberia"
-        titleTemplate="Educational institutions in Liberia"
-        defaultTitle="Educational institutions in Liberia"
-        description="Find all the educational institutions in Liberia and details about location,contacts, facilities, ratings and more"
-        canonical="https://schools.studyinliberia.xyz"
+        title="View a comprehensive list of schools with advanced filters and sorting."
+        titleTemplate="View a comprehensive list of schools with advanced filters and sorting"
+        defaultTitle="View a comprehensive list of schools with advanced filters and sorting"
+        description="Discover and compare high schools across the country. Make informed decisions about your child’s future."
+        canonical="https://schools.smartchance.org"
         openGraph={{
-          url: "https://schools.studyinliberia.xyz",
+          url: "https://schools.smartchance.org",
           title: "Educational institutions in Liberia",
           description:
-            "Find all the educational institutions in Liberia and details about location,contacts, facilities, ratings and more",
+            "Discover and compare high schools across the country. Make informed decisions about your child’s future.",
           images: [
             {
-              url: "https://schools.studyinliberia.xyz/freddie-marriage.png",
+              url: "https://schools.smartchance.org/freddie-marriage.png",
               width: 800,
               height: 420,
-              alt: "Educational institutions in Liberia",
+              alt: "View a comprehensive list of schools with advanced filters and sorting.",
             },
           ],
         }}
