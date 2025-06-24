@@ -2,7 +2,7 @@
 
 Schools in Liberia is an open source project which aims to give accurate and up-to-date information about high schools in Liberia and details about location,contacts, facilities, ratings and more.
 
-For more information please contact: solodolley@gmail.com/+231777298772
+For more information please contact: admin@smartchance.org/ +231777298772
 
 The generated site https://schools.smartchance.org is based on github pages.
 
