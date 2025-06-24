@@ -68,6 +68,11 @@ const FeatureCard = styled.div`
 
 const FeatureTitle = styled.h3`
   margin-bottom: 0.5rem;
+  cursor: pointer;
+
+   &:hover {
+   text-decoration: underline;
+  }
 `;
 
 const FeatureText = styled.p`
