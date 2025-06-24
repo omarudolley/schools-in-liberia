@@ -22,7 +22,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         canonical="https://schools.smartchance.org"
         openGraph={{
           url: "https://schools.smartchance.org",
-          title: "Educational institutions in Liberia",
+          title: "High Schools in Liberia",
           description:
             "Discover and compare high schools across the country. Make informed decisions about your child’s future.",
           images: [
